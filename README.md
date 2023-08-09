@@ -1,10 +1,7 @@
-### Hola Desconocido 👋
-## Bienvenido al Centro de aqí mismo
+# Hola Desconocido 👋
+### Bienvenido al Centro de aqí mismo
 
-
-# Redes Sociales
-<a href="https://www.youtube.com/@OnelCrack"><img src="/img/socials/YouTube.png" width="50px" height="50px"></img></a><a href="https://www.facebook.com/profile.php?id=100092376152191"><img src="/img/socials/Facebook.png" width="50px" height="50px"></img></a><a href=""><img src="/img/socials/Instagram.png" width="50px" height="50px"></a>
-<a href="https://twitter.com/Onel_Crack?t=NFwmb3M7Gb8dr-B9oUubaw&s=09"><img src="/img/socials/twitter.png" width="50px" height="50px"></a>
+# Algo de mi
 
 <!--
 **TechOGR/TechOGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
