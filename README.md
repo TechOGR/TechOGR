@@ -1,23 +1,12 @@
-<p align="center">
-  # Hola Desconocido 👋
-</p>
-### Bienvenido al Centro de aquí mismo ###
 
-# Algo de mi...
-Chico autodidacta, apacionado por el mundo de las tecnologías,
-pero lamentablemente... Vivo en Cuba. Necesito un Patrocinador.
+# Hola Desconocido 👋🏻
+### Sean bienvenidos al centro de aquí mismo.
 
-<!--
-**TechOGR/TechOGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Algo de mi 🙃
+##### - Chico autodidacta, apasionado por el mundo de la tecnología, estancado y siendo atrasado por la dictadura cubana.
+#### - 20 años 👴🏻
+#### - Inteligente 🧠
+#### - Romántico 😏
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### - Se cocinar 🍳
+#### - Simpático 😁
