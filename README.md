@@ -10,7 +10,7 @@
 ### - Se cocinar 🍳
 ### - Simpático 😁
 
-# Lenguajes 👅
+# Tecnologías 👅
 ### - Python - Framework Flask
 ### - JavaScript - Nodejs(Express)
 ### - Java - Android Studio
