@@ -1,7 +1,11 @@
-# Hola Desconocido 👋
-### Bienvenido al Centro de aqí mismo
+<p align="center">
+  # Hola Desconocido 👋
+</p>
+### Bienvenido al Centro de aquí mismo ###
 
-# Algo de mi
+# Algo de mi...
+Chico autodidacta, apacionado por el mundo de las tecnologías,
+pero lamentablemente... Vivo en Cuba. Necesito un Patrocinador.
 
 <!--
 **TechOGR/TechOGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
