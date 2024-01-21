@@ -1,17 +1,17 @@
-# Hola Desconocido 👋🏻
-### Sean bienvenidos al centro de aquí mismo.
+# Hello Unknown 👋🏻
+### Welcome to the center right here
 
-# Algo de mi 🙃
+# Something about me 🙃
 
-#### - Chico autodidacta, apasionado por el mundo de la tecnología, estancado y siendo atrasado por la dictadura cubana.
-### - 20 años 👴🏻
-### - Inteligente 🧠
-### - Romántico 😏
-### - Se cocinar 🍳
-### - Simpático 😁
+#### - Self-taught boy, passionate about the world of technology, stagnant and being delayed by the Cuban dictatorship.
+### - 20 years 👴🏻
+### - Intelligent 🧠
+### - Romantic 😏
+### - I know how to cook 🍳
+### - Funny 😁
 
-# Tecnologías 👨‍💻
-### - Python - Framework Flask
+# Technology 👨‍💻
+### - Python - Framework Flask, PyQt
 ### - JavaScript - Nodejs(Express)
 ### - Java - Android Studio
 ### - CSS - HTML
