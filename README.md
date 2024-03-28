@@ -4,7 +4,7 @@
 # Something about me 🙃
 
 #### - Self-taught boy, passionate about the world of technology, stagnant and being delayed by the Cuban dictatorship.
-### - 20 years 👴🏻
+### - 21 years 👴🏻
 ### - Intelligent 🧠
 ### - Romantic 😏
 ### - I know how to cook 🍳
