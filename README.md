@@ -11,8 +11,8 @@
 ### - Funny 😁
 
 # Technology 👨‍💻
-### - Python - Framework Flask, PyQt
-### - JavaScript - Nodejs(Express)
+### - Python - Framework Flask, PyQt, Pandas.
+### - JavaScript - Nodejs(Express), React
 ### - Java - Android Studio
 ### - CSS - HTML
 ### - C++ - Qt
