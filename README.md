@@ -14,7 +14,7 @@
 Name: Onel Crack
 Age: 21
 Role: Software Developer
-Focus: Building systems that create leverage
+Focus: Programming is not just writing code; it's bringing your imagination to the digital realm.
 Location: Uruguay
 ```
 ---
