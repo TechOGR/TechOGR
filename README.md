@@ -23,8 +23,8 @@ Location: Uruguay
 
 ---
 
-## 🧠 CodeTraceCrack  
-🔗 https://github.com/TechOGR/CodeTraceCrack
+## 🧠 CodeTrace
+🔗 https://github.com/TechOGR/CodeTrace
 
 <div align="center">
   <img src="https://img.shields.io/badge/Type-Code%20Analysis%20Tool-00F7FF?style=for-the-badge"/>
